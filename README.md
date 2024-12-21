@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/seu-usuario/nome-do-repositorio/main/nome-da-imagem.png" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
@@ -35,9 +35,6 @@
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://instagram.com/your-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
 </div>
 
